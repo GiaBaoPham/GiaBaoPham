@@ -3,19 +3,23 @@
   <img src="giabao.svg" width="1200" alt="giabao" />
 </a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">🛠 テクノロジー 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=pythont&logoColor=#3776AB" alt="Python" title="Python" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=#00599C" alt="C++" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Cphusphus-282C34?logo=cphusphus&logoColor=#00599C" alt="C++" title="C++" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=hTML5&logoColor=#E34F26" alt="HTML" title="HTML" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=cSS3&logoColor=#1572B6" alt="CSS" title="CSS" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorFlow&logoColor=#FF6F00" alt="TensorFlow" title="TensorFlow" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/PyTorch-282C34?logo=pyTorch&logoColor=#EE4C2C" alt="PyTorch" title="PyTorch" height="25" /></span>
+&nbsp;
 
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">👽 自分の連絡 👽</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
