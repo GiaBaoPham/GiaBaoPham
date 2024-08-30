@@ -8,7 +8,7 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Cphusphus-282C34?logo=cphusphus&logoColor=#00599C" alt="C++" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=#00599C" alt="C++" title="C++" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=hTML5&logoColor=#E34F26" alt="HTML" title="HTML" height="25" /></span>
 &nbsp;
